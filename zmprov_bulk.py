@@ -1,10 +1,9 @@
-#!/usr/bin/python
-
 import os
 import pandas as pd
 from time import sleep
 
 """
+Created By Marius Niehaus 
 Python script to create users from a csv file with passwords 
 You need to su zimbra and then run the script like ex as zimbra user python3 script_name.py 
 
